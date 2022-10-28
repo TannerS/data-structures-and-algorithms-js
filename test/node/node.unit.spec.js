@@ -1,6 +1,6 @@
 import Node from '../../src/node/Node';
 
-describe('node:node', () => {
+describe('node', () => {
   it('should correct set data in constructor', () => {
     const node = new Node("test");
 
